@@ -1,2 +1,2 @@
-# theovieManager
+# theMovieManager
 movie app

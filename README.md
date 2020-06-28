@@ -1,2 +1,2 @@
-# theMovieManager
-movie app
+# todoList
+todoList app
